@@ -1,4 +1,4 @@
-/**
+﻿/**2015.12.3
  *十六进制转二进制
  */
 package com.bookswork;
